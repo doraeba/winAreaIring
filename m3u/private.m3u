@@ -1,0 +1,44 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE blank
+ #Add
+#EXTINF:-1 group-title="temporary",纬来体育台
+https://hls.yjjcfw.com/live/vl.m3u8?hwSecret=b340757056cf27e97f0a4a85c1100c41e6acc2945b42494735f98474925fa3a2&hwTime=68200F3D
+#EXTINF:-1 group-title="douyin",douyin-大马猴电竞
+http://113.45.225.23:8686/douyin/583088196896
+#EXTINF:-1 group-title="bilibili",bilibili-Xiaomi 15系列新品发布会 - 小米公司 - 哔哩哔哩直播，二次元弹幕直播平台
+http://113.45.225.23:8686/bilibili/
+#EXTINF:-1 group-title="huya",huya-炊事班的故事-轮播
+http://113.45.225.23:8686/huya/28029108
+#EXTINF:-1 group-title="douyin",douyin-轻漾科技
+http://113.45.225.23:8686/douyin/294308314572
+#EXTINF:-1 group-title="douyin",douyin-烦烦
+http://113.45.225.23:8686/douyin/870365846976
+#EXTINF:-1 group-title="douyin",douyin-旭旭宝宝
+http://113.45.225.23:8686/douyin/660292215268
+#EXTINF:-1 group-title="douyin",douyin-女流66
+http://113.45.225.23:8686/douyin/531854687617
+#EXTINF:-1 group-title="douyin",douyin-小师妹茶馆
+http://113.45.225.23:8686:8686/douyin/609566923227
+#EXTINF:-1 group-title="yy",yy-西游记(张卫健)
+http://113.45.225.23:8686/yy/1354936155
+#EXTINF:-1 group-title="yy",yy-电影轮播
+http://113.45.225.23:8686/yy/33897188
+#EXTINF:-1 group-title="yy",yy-少年包青天(周杰版)
+http://113.45.225.23:8686/yy/38498680
+#EXTINF:-1 group-title="huya",huya-天龙八部
+http://113.45.225.23:8686/huya/23903123
+#EXTINF:-1 group-title="huya",huya-周星驰
+http://113.45.225.23:8686/huya/11342412
+#EXTINF:-1 group-title="douyin",douyin-阿鑫
+http://113.45.225.23:8686/douyin/611771214091
+#EXTINF:-1 group-title="douyin",douyin-zj一哥
+http://113.45.225.23:8686/douyin/363807842359
+#EXTINF:-1 group-title="huya",huya-张坤
+http://113.45.225.23:8686/huya/sgszhangkun
+#EXTINF:-1 group-title="douyin",douyin-维
+http://113.45.225.23:8686/douyin/477105950297
+#EXTINF:-1 group-title="douyin",douyin-导师
+http://113.45.225.23:8686/douyin/48656747725
+#EXTINF:-1 group-title="douyin",douyin-天成竞技
+http://113.45.225.23:8686/douyin/314475303652
