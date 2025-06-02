@@ -6,10 +6,14 @@
 https://hls.yjjcfw.com/live/vl.m3u8?hwSecret=b340757056cf27e97f0a4a85c1100c41e6acc2945b42494735f98474925fa3a2&hwTime=68200F3D
 
 #斗鱼
-#EXTINF:-1 group-title="斗鱼",斗鱼-
-https://www.goodiptv.club/douyu/5579534?
-90
-
+#EXTINF:-1 group-title="斗鱼",斗鱼-端游小牧
+https://www.goodiptv.club/douyu/5579534
+#EXTINF:-1 group-title="斗鱼",斗鱼-端游小牧
+https://www.goodiptv.club/douyu/5632185
+#EXTINF:-1 group-title="斗鱼",斗鱼-手游落叶
+https://www.goodiptv.club/douyu/7433259
+#EXTINF:-1 group-title="斗鱼",斗鱼-手游清浅
+https://www.goodiptv.club/douyu/9200778
 #B站
 
 #抖音
