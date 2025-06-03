@@ -6,7 +6,7 @@
 https://hls.yjjcfw.com/live/vl.m3u8?hwSecret=b340757056cf27e97f0a4a85c1100c41e6acc2945b42494735f98474925fa3a2&hwTime=68200F3D
 
 #斗鱼
-#EXTINF:-1 group-title="斗鱼",跑跑-端游小牧
+#EXTINF:-1 group-title="斗鱼",跑跑-端游SSS
 https://www.goodiptv.club/douyu/5579534
 #EXTINF:-1 group-title="斗鱼",跑跑-端游小牧
 https://www.goodiptv.club/douyu/5632185
@@ -17,6 +17,8 @@ https://www.goodiptv.club/douyu/9200778
 #B站
 
 #抖音
+#EXTINF:-1 group-title="抖音",跑跑-端游卡尔
+https://www.goodiptv.club/douyin/767928755587
 #EXTINF:-1 group-title="抖音",跑跑-端游大头(解说)
 https://www.goodiptv.club/douyin/645922384266
 #EXTINF:-1 group-title="抖音",跑跑-端游佑哥
@@ -47,7 +49,7 @@ http://113.45.225.23:8686/douyin/611771214091
 http://113.45.225.23:8686/douyin/363807842359
 #EXTINF:-1 group-title="抖音",维
 http://113.45.225.23:8686/douyin/477105950297
-#EXTINF:-1 group-title="抖音",跑跑-端游导师
+#EXTINF:-1 group-title="抖音",跑跑-端游导师(解说)
 http://113.45.225.23:8686/douyin/48656747725
 #EXTINF:-1 group-title="抖音",天成竞技
 http://113.45.225.23:8686/douyin/314475303652
